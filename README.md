@@ -34,6 +34,37 @@ PerformanceTest(2b) o/p link:https://github.com/user-attachments/assets/7e004c12
 
 StringHandlingDemo(3a) o/p link:https://github.com/user-attachments/assets/ea98d888-3fcb-4ea1-ae3f-c0d66d3bff72
 
+NullOrEmptyCheck(3b(1)) o/p link:https://github.com/user-attachments/assets/5e6d6142-7fac-44c9-92ac-432b94f72ade
+
+SubstringCount(3b(2)) o/p link:https://github.com/user-attachments/assets/0fa92d30-9acb-4841-9c79-3ff03c309d04
+
+StringReverse(3b(3)) o/p link:https://github.com/user-attachments/assets/9ba7ff23-225a-4111-a6a0-85b8dd4c233b
+
+PalindromeCheck(3b(4)) o/p link:https://github.com/user-attachments/assets/a801b5c3-6cd5-4642-873a-0cf00cf6b97b
+
+RemoveWhitespace(3b(4)) o/p link:https://github.com/user-attachments/assets/791706a3-f625-4676-8de9-ed1e5fef1284
+
+CapitalizeWords(3c(1)) o/p link:https://github.com/user-attachments/assets/ae197fcf-54bd-4d38-af04-432f27ea12b8
+
+StringTruncate(3c(2)) o/p link:https://github.com/user-attachments/assets/625d30e3-c3c4-4c77-a320-41f9cc124e2b
+
+NumericChecker(3c(3)) o/p link:https://github.com/user-attachments/assets/c166633f-4f61-47af-94d6-c343696530eb
+
+RandomStringGenerate(3c(4)) o/p link:https://github.com/user-attachments/assets/97781ac4-f868-48e6-a4d0-1af0964dcf9d
+
+WordCount(3c(5)) o/p link:https://github.com/user-attachments/assets/6f8d8799-51af-48f6-acdf-89a67ad6fd95
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
