@@ -26,6 +26,14 @@ l_listobj_get(1c(4)) o/p link:https://github.com/user-attachments/assets/9f5144a
 
 Collections_swap(1c(5)) o/p link:https://github.com/user-attachments/assets/8f90b7f7-481a-45ff-9785-df2b1aed1703
 
+Strings:
+
+StringHandlingDemo o/p link:https://github.com/user-attachments/assets/ea98d888-3fcb-4ea1-ae3f-c0d66d3bff72
+
+PerformanceTest o/p link:https://github.com/user-attachments/assets/7e004c12-d25b-4709-abc1-730dba2a9832
+
+
+
 
 
 
