@@ -16,7 +16,7 @@ Remove_by_index(1b(5)) o/p link:https://github.com/user-attachments/assets/6b482
 
 Linked List:
 
-IteratorObject o/p link:https://github.com/user-attachments/assets/3c836024-0c8d-4c76-af84-1ec7ee8b4c50
+IteratorObject(1c(1)) o/p link:https://github.com/user-attachments/assets/3c836024-0c8d-4c76-af84-1ec7ee8b4c50
 
 
 
