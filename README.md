@@ -42,7 +42,7 @@ StringReverse(3b(3)) o/p link:https://github.com/user-attachments/assets/9ba7ff2
 
 PalindromeCheck(3b(4)) o/p link:https://github.com/user-attachments/assets/a801b5c3-6cd5-4642-873a-0cf00cf6b97b
 
-RemoveWhitespace(3b(4)) o/p link:https://github.com/user-attachments/assets/791706a3-f625-4676-8de9-ed1e5fef1284
+RemoveWhitespace(3b(5)) o/p link:https://github.com/user-attachments/assets/791706a3-f625-4676-8de9-ed1e5fef1284
 
 CapitalizeWords(3c(1)) o/p link:https://github.com/user-attachments/assets/ae197fcf-54bd-4d38-af04-432f27ea12b8
 
