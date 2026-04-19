@@ -12,7 +12,7 @@ ArrayListObj(1b(3)) o/p link:https://github.com/user-attachments/assets/8fe606df
 
 SubList(1b(4)) o/p link:https://github.com/user-attachments/assets/8085db05-e94c-41f9-86f4-315a4ae076b3
 
-Remove_by_index o/p link:https://github.com/user-attachments/assets/6b48241f-c156-47dd-a1a1-b069499beef1
+Remove_by_index(1b(5)) o/p link:https://github.com/user-attachments/assets/6b48241f-c156-47dd-a1a1-b069499beef1
 
 
 
