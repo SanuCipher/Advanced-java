@@ -1,3 +1,6 @@
+/*1b(2).Write a java program for getting different colors through ArrayList interface and remove the
+2nd element and color &quot;Blue&quot; from the ArrayList*/
+
 package arrayList;
 
 import java.util.*;
