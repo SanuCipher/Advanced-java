@@ -15,5 +15,10 @@ SubList(1b(4)) o/p link:https://github.com/user-attachments/assets/8085db05-e94c
 Remove_by_index(1b(5)) o/p link:https://github.com/user-attachments/assets/6b48241f-c156-47dd-a1a1-b069499beef1
 
 
+Linked List:
+IteratorObject o/p link:https://github.com/user-attachments/assets/3c836024-0c8d-4c76-af84-1ec7ee8b4c50
+
+
+
 
 
