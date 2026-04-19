@@ -8,4 +8,7 @@ remove2ndelement(1b(2)) o/p link:https://github.com/user-attachments/assets/7137
 
 ArrayListObj(1b(3)) o/p link:https://github.com/user-attachments/assets/8fe606df-e35d-4959-b818-0f99690549a9
 
+SubList(1b(4)) o/p link:https://github.com/user-attachments/assets/8085db05-e94c-41f9-86f4-315a4ae076b3
+
+
 
