@@ -1,3 +1,7 @@
+/*3c(8). Write a Java Program for Verifying if a string contains only numeric characters using user defined
+function isNumeric()*/
+
+
 package String_Functions;
 
 import java.util.Scanner;
