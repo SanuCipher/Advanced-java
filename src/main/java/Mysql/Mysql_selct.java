@@ -17,7 +17,7 @@ public class Mysql_selct
     	{ String url = "jdbc:mysql://localhost/test"; 
     	Properties info = new Properties();
     	info.put("user", "root");
-    	info.put("password", "Noor2006");
+    	info.put("password", "root");
     	dbConnection = DriverManager.getConnection(url, info);
     	if (dbConnection != null)
     		{
